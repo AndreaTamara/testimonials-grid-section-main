@@ -12,6 +12,7 @@ body{
     background: hsl(210, 46%, 95%);
     display:grid;
     place-items:center;
+    padding: 25px 25px 0 25px;
 }
 
 .grid-container{
@@ -25,6 +26,7 @@ body{
     justify-items: left;
     align-items: start;
     gap:30px; 
+    padding-bottom: 25px;
 }
 
 .grid-item{
